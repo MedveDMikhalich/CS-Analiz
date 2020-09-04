@@ -1,0 +1,13 @@
+C:\Users\Михаил\source\repos\MedveDMikhalich\CS-Analiz\CreateStruct\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.exe
+C:\Users\Михаил\source\repos\MedveDMikhalich\CS-Analiz\CreateStruct\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.deps.json
+C:\Users\Михаил\source\repos\MedveDMikhalich\CS-Analiz\CreateStruct\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.runtimeconfig.json
+C:\Users\Михаил\source\repos\MedveDMikhalich\CS-Analiz\CreateStruct\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.runtimeconfig.dev.json
+C:\Users\Михаил\source\repos\MedveDMikhalich\CS-Analiz\CreateStruct\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.dll
+C:\Users\Михаил\source\repos\MedveDMikhalich\CS-Analiz\CreateStruct\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.pdb
+C:\Users\Михаил\source\repos\MedveDMikhalich\CS-Analiz\CreateStruct\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.csprojAssemblyReference.cache
+C:\Users\Михаил\source\repos\MedveDMikhalich\CS-Analiz\CreateStruct\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.AssemblyInfoInputs.cache
+C:\Users\Михаил\source\repos\MedveDMikhalich\CS-Analiz\CreateStruct\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.AssemblyInfo.cs
+C:\Users\Михаил\source\repos\MedveDMikhalich\CS-Analiz\CreateStruct\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\MedveDMikhalich\CS-Analiz\CreateStruct\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.dll
+C:\Users\Михаил\source\repos\MedveDMikhalich\CS-Analiz\CreateStruct\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.pdb
+C:\Users\Михаил\source\repos\MedveDMikhalich\CS-Analiz\CreateStruct\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.genruntimeconfig.cache
